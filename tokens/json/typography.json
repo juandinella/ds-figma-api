@@ -1,0 +1,16 @@
+{
+  "font": {
+    "bodyNormal": {
+      "value": "1em"
+    },
+    "headingSmall": {
+      "value": "1.125em"
+    },
+    "headingNormal": {
+      "value": "1.5em"
+    },
+    "headingBig": {
+      "value": "1.75em"
+    }
+  }
+}

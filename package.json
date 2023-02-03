@@ -1,0 +1,31 @@
+{
+  "name": "ds-figma-api",
+  "version": "0..1",
+  "scripts": {
+    "start": "npm run tokens ",
+    "tokens": "npm run tokens:api && npm run tokens:build",
+    "tokens:api": "bin/figma-tokens",
+    "tokens:build": "style-dictionary build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:juandinella/ds-figma-api.git"
+  },
+  "files": [
+    "dist/",
+    "public/",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [],
+  "author": "Juan Di Nella",
+  "license": "ISC",
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "file-system": "^2.2.2",
+    "style-dictionary": "^2.10.3"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}

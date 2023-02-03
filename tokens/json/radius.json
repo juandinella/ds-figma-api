@@ -1,0 +1,13 @@
+{
+  "radius": {
+    "sm": {
+      "value": "0.5em"
+    },
+    "md": {
+      "value": "1em"
+    },
+    "rounded": {
+      "value": "6.25em"
+    }
+  }
+}

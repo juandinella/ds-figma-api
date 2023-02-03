@@ -1,0 +1,40 @@
+/**
+ * Do not edit directly
+ * Generated on Fri, 03 Feb 2023 17:40:14 GMT
+ */
+
+:root {
+  --breakpoint-xl: 91.25em;
+  --breakpoint-lg: 75em;
+  --breakpoint-md: 62em;
+  --breakpoint-sm: 48em;
+  --breakpoint-xs: 36em;
+  --color-alert-warning: #ffa90d;
+  --color-alert-error: #e5363a;
+  --color-alert-success: #34ea7c;
+  --color-neutral-00: #ffffff;
+  --color-neutral-05: #f2f2f2;
+  --color-neutral-20: #cccccc;
+  --color-neutral-40: #999999;
+  --color-neutral-80: #333333;
+  --color-primary-dark: #1d698f;
+  --color-primary-main: #2587b8;
+  --color-primary-light: #56a4c9;
+  --radius-sm: 0.5em;
+  --radius-md: 1em;
+  --radius-rounded: 6.25em;
+  --shadow-sm: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  --shadow-md: 0px 4px 16px rgba(0, 0, 0, 0.25);
+  --shadow-lg: 0px 4px 24px rgba(0, 0, 0, 0.25);
+  --spacing-xxl: 3rem;
+  --spacing-xl: 2.5rem;
+  --spacing-lg: 2rem;
+  --spacing-md: 1.5rem;
+  --spacing-sm: 1rem;
+  --spacing-xs: 0.5rem;
+  --spacing-xxs: 0.25rem;
+  --font-body-normal: 1em;
+  --font-heading-small: 1.125em;
+  --font-heading-normal: 1.5em;
+  --font-heading-big: 1.75em;
+}

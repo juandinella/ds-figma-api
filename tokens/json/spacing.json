@@ -1,0 +1,25 @@
+{
+  "spacing": {
+    "xxl": {
+      "value": "3rem"
+    },
+    "xl": {
+      "value": "2.5rem"
+    },
+    "lg": {
+      "value": "2rem"
+    },
+    "md": {
+      "value": "1.5rem"
+    },
+    "sm": {
+      "value": "1rem"
+    },
+    "xs": {
+      "value": "0.5rem"
+    },
+    "xxs": {
+      "value": "0.25rem"
+    }
+  }
+}
